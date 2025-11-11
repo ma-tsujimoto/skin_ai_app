@@ -122,3 +122,4 @@ if uploaded_file is not None:
     st.markdown(result_html, unsafe_allow_html=True)
 
     st.info("※この結果はデモです。実際の診断は医師にご相談ください。")
+
